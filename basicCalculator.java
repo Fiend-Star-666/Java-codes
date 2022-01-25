@@ -1,7 +1,4 @@
 import java.util.*;
-
-import javax.sql.rowset.spi.SyncResolver;
-
 public class basicCalculator {
     //static int ans;
     public static int add(int num1, int num2){
