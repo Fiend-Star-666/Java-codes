@@ -4,5 +4,7 @@ Contents:
 3. Currency Converter with one Currency
 
 TBC:
+
 History enabled Calculator
+
 Shopping Cart
