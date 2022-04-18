@@ -1,0 +1,22 @@
+Invoice-ID: CID1501207967INV1023686896 of Customer: Gursimran Singh and with ID: CID1501207967 is as follows:
+
+|-------------------------------------------------------------------------|
+| Product				||	Price		||	Quantity	||	TOTAL         |
+|-------------------------------------------------------------------------|
+| Samsung Odessey G7    ||     30000INR	||     6		||	180000INR 		
+|-------------------------------------------------------------------------|
+| Oneplus OP7T          ||     24250INR	||    14		||	339500INR 		
+|-------------------------------------------------------------------------|
+
+Cart Details:
+	Total Price of the Cart is: 519500INR
+	Total number of Items are: 20
+
+Customer Details: 
+
+Contact:
+	 Name: Gursimran Singh,
+	 Address: 169 Yadhav Colony,
+	 Email-Id: gursimrajsafjafs@gmail.com,
+	 Phone Number: 8295611087
+ Date and Time:	22:19	24-02-2022

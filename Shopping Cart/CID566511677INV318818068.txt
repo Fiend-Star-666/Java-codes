@@ -1,0 +1,22 @@
+Invoice-ID: CID566511677INV318818068 of Customer: ewd1qxs and with ID: CID566511677 is as follows:
+
+|-------------------------------------------------------------------------|
+| Product				||	Price		||	Quantity	||	TOTAL         |
+|-------------------------------------------------------------------------|
+| Oneplus OP7T          ||     24250INR	||     2		||	48500INR 		
+|-------------------------------------------------------------------------|
+| Oneplus OP8T          ||     34124INR	||     6		||	204744INR 		
+|-------------------------------------------------------------------------|
+
+Cart Details:
+	Total Price of the Cart is: 253244INR
+	Total number of Items are: 8
+
+Customer Details: 
+
+Contact:
+	 Name: ewd1qxs,
+	 Address: ewdq,
+	 Email-Id: 2121dwq,
+	 Phone Number: 215132213
+ Date and Time:	23:09	24-02-2022

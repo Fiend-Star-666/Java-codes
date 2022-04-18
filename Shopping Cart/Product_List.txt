@@ -1,0 +1,4 @@
+G7,Samsung Odessey, 30000, a samsung monitor
+OP8T, Oneplus, 34124, a one plus phone
+OP7T, Oneplus, 24250, a one plus phone
+S22ULTRA, Samsung, 115000, Samsung newest Flagship

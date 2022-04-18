@@ -1,0 +1,23 @@
+-----------------------Thanks for using our Shopping Centre-----------------------
+Invoice-ID: CID1908276325INV1988601403 of Customer: Gursimran and with ID: CID1908276325 is as follows:
+
+|-------------------------------------------------------------------------|
+| Product				||	Price		||	Quantity	||	TOTAL         |
+|-------------------------------------------------------------------------|
+| Oneplus OP8T          ||     34124INR	||     3		||	102372INR 		
+|-------------------------------------------------------------------------|
+| Oneplus OP7T          ||     24250INR	||     5		||	121250INR 		
+|-------------------------------------------------------------------------|
+
+Cart Details:
+	Total Price of the Cart is: 223622INR
+	Total number of Items are: 8
+
+Customer Details: 
+
+Contact:
+	 Name: Gursimran,
+	 Address: 169 yadhav colony, pinjore,
+	 Email-Id: gur@gmail.com,
+	 Phone Number: 6722964826
+ Date and Time:	15:22	28-02-2022
