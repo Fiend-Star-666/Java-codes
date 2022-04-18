@@ -1,3 +1,5 @@
+This is my Progress of Learning Java from Scratch
+
 Contents:
 1. Basic Calculator
 2. Row-major inspired tic-tac-toe
